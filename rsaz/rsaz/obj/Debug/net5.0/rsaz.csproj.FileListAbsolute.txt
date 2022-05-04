@@ -1,0 +1,16 @@
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\rsaz.exe
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\rsaz.deps.json
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\rsaz.runtimeconfig.json
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\rsaz.runtimeconfig.dev.json
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\rsaz.dll
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\ref\rsaz.dll
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\bin\Debug\net5.0\rsaz.pdb
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.csproj.AssemblyReference.cache
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.AssemblyInfoInputs.cache
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.AssemblyInfo.cs
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.csproj.CoreCompileInputs.cache
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.dll
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\ref\rsaz.dll
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.pdb
+C:\Users\smics\Desktop\rsz\rsaz\rsaz\obj\Debug\net5.0\rsaz.genruntimeconfig.cache
